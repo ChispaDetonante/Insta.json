@@ -1,2 +1,1 @@
-# Insta.json
-["chispadetonante","entrenadorjesuspabon","ing.jesuspabon]
+["chispadetonante","entrenadorjesuspabon","ing.jesuspabon].
